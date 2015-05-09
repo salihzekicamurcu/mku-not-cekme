@@ -1,0 +1,24 @@
+D:\D\C# Form\NotCekme\NotCekme\bin\Debug\NotCekme.exe
+D:\D\C# Form\NotCekme\NotCekme\bin\Debug\NotCekme.pdb
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.Form1.resources
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.Properties.Resources.resources
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.csproj.GenerateResource.Cache
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.exe
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.pdb
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.csprojResolveAssemblyReference.cache
+D:\D\C# Form\NotCekme\NotCekme\bin\Debug\NotCekme.exe.manifest
+D:\D\C# Form\NotCekme\NotCekme\bin\Debug\NotCekme.application
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.exe.manifest
+D:\D\C# Form\NotCekme\NotCekme\obj\x86\Debug\NotCekme.application
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.exe
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.pdb
+D:\NotCekme\NotCekme\bin\Debug\NotCekme.exe.manifest
+D:\NotCekme\NotCekme\bin\Debug\NotCekme.application
+D:\NotCekme\NotCekme\bin\Debug\NotCekme.exe
+D:\NotCekme\NotCekme\bin\Debug\NotCekme.pdb
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.csprojResolveAssemblyReference.cache
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.Form1.resources
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.Properties.Resources.resources
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.csproj.GenerateResource.Cache
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.exe.manifest
+D:\NotCekme\NotCekme\obj\x86\Debug\NotCekme.application
